@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sablona:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-15T14:49:25.3164281+02:00"
+    description: A Helm chart for Kubernetes
+    digest: b4dbef1321a6afdaf541c5fcc2697f7672820f6f071c75a53fc7bb2c785971a0
+    name: sablona
+    type: application
+    urls:
+    - sablona-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-15T14:49:25.315929+02:00"
